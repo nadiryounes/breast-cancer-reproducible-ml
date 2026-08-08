@@ -1,0 +1,2 @@
+Total cases,Predictors,Benign,Malignant,Training cases,Test cases,Training malignant,Training benign,Test malignant,Test benign
+569,30,357,212,455,114,170,285,42,72

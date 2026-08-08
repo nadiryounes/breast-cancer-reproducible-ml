@@ -1,0 +1,18 @@
+Model,Original row index,True class,Predicted class,P(malignant),worst radius,worst perimeter,worst concave points,mean concave points,worst texture
+Logistic Regression,455,Benign,Malignant,0.5091554892717629,15.05,96.69,0.07763,0.03264,41.61
+Logistic Regression,73,Malignant,Benign,0.06142943289565943,16.57,110.3,0.1383,0.05069,20.86
+Logistic Regression,190,Malignant,Benign,0.31453248289469704,15.74,106.4,0.1772,0.06618,37.18
+Logistic Regression,205,Malignant,Benign,0.49160989311883696,17.77,117.7,0.1252,0.04079,20.24
+SVM (RBF),99,Malignant,Benign,0.44176828059765794,16.33,109.5,0.1565,0.05839,30.86
+SVM (RBF),73,Malignant,Benign,0.061256111854855896,16.57,110.3,0.1383,0.05069,20.86
+SVM (RBF),86,Malignant,Benign,0.5542206775277512,16.21,108.4,0.1225,0.04938,29.25
+Random Forest,73,Malignant,Benign,0.21,16.57,110.3,0.1383,0.05069,20.86
+Random Forest,86,Malignant,Benign,0.32,16.21,108.4,0.1225,0.04938,29.25
+Random Forest,385,Malignant,Benign,0.2975,15.79,102.2,0.1359,0.05271,31.71
+XGBoost,73,Malignant,Benign,0.005539126694202423,16.57,110.3,0.1383,0.05069,20.86
+XGBoost,86,Malignant,Benign,0.4420175850391388,16.21,108.4,0.1225,0.04938,29.25
+XGBoost,385,Malignant,Benign,0.1927942931652069,15.79,102.2,0.1359,0.05271,31.71
+XGBoost,205,Malignant,Benign,0.308368057012558,17.77,117.7,0.1252,0.04079,20.24
+Soft Voting Ensemble,73,Malignant,Benign,0.08455616786117943,16.57,110.3,0.1383,0.05069,20.86
+Soft Voting Ensemble,385,Malignant,Benign,0.48558598281087906,15.79,102.2,0.1359,0.05271,31.71
+Soft Voting Ensemble,205,Malignant,Benign,0.49347587936330173,17.77,117.7,0.1252,0.04079,20.24

@@ -1,0 +1,15 @@
+name: breast-cancer-benchmark
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.5
+  - pip
+  - pip:
+      - numpy==2.3.5
+      - pandas==2.2.3
+      - scikit-learn==1.8.0
+      - xgboost==3.1.3
+      - scipy==1.17.0
+      - matplotlib==3.10.8
+      - statsmodels==0.14.5
+      - psutil==7.0.0

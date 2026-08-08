@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this software repository."
+title: "Reproducible and Explainable Machine Learning for Breast Cancer Classification"
+type: software
+version: 1.0.0
+date-released: 2026-08-08
+license: MIT
+authors:
+  - family-names: "Nadir"
+    given-names: "Younes"
+    email: "younes.nadir@univh2c.ma"
+  - family-names: "Rachdi"
+    given-names: "Mohamed"
+  - family-names: "Bakhouyi"
+    given-names: "Abdellah"
+  - family-names: "Amhaimar"
+    given-names: "Lahcen"
+  - family-names: "Khalidi"
+    given-names: "Abderrahim"
+  - family-names: "Azzouazi"
+    given-names: "Mohamed"
+keywords:
+  - breast cancer
+  - machine learning
+  - explainable artificial intelligence
+  - reproducibility
+  - calibration
+  - WDBC
+  - SHAP
+abstract: >-
+  Version-pinned analysis code, canonical outputs, environment specifications,
+  and manuscript figures supporting a reproducible evaluation of machine-learning
+  classifiers on the Breast Cancer Wisconsin (Diagnostic) dataset.
