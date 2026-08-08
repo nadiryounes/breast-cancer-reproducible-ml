@@ -27,6 +27,10 @@ The study uses the **Breast Cancer Wisconsin (Diagnostic) (WDBC)** dataset.
 
 The dataset is **not redistributed** in this repository. It is loaded programmatically by the analysis code.
 
+## Archived Release
+
+Version 1.0.0 is permanently archived on Zenodo: `10.5281/zenodo.21855569`
+
 ## Study design reproduced by this repository
 
 The analysis evaluates:
